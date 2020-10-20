@@ -1,0 +1,14 @@
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\bin\Debug\EventsAndXAML.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\bin\Debug\EventsAndXAML.exe
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\bin\Debug\EventsAndXAML.pdb
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\MainWindow.baml
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\MainWindow.g.cs
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\App.g.cs
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML_MarkupCompile.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.g.resources
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.Properties.Resources.resources
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.csproj.GenerateResource.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.exe
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\Starter\EventsAndXAML\obj\Debug\EventsAndXAML.pdb

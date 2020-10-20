@@ -1,0 +1,7 @@
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\bin\Debug\UsingStructs.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\bin\Debug\UsingStructs.exe
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\bin\Debug\UsingStructs.pdb
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\obj\Debug\UsingStructs.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\obj\Debug\UsingStructs.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\obj\Debug\UsingStructs.exe
+C:\Curso\20483\Luismi\Tareas\Mod03_T20483\Democode\UsingStructs\obj\Debug\UsingStructs.pdb
